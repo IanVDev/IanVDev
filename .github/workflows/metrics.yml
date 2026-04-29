@@ -19,7 +19,7 @@ jobs:
           user: IanVDev
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: America/Sao_Paulo
           config_padding: 10
           plugin_languages: yes

@@ -40,7 +40,7 @@ Real systems > hype
 
 ![GitHub Metrics](./github-metrics.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IanVDev&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=IanVDev&theme=tokyonight&hide_longest_streak=true)
 
 </div>
 
