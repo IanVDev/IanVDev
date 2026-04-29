@@ -38,9 +38,12 @@ Real systems > hype
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&theme=tokyonight&include_all_commits=true)
+<img height="180" alt="IanVDev GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=tokyonight" />
+<img height="180" alt="IanVDev GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVDev&layout=compact&theme=tokyonight)
+<img alt="IanVDev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVDev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+
+<img alt="IanVDev Contributions Last Year" src="https://github-readme-activity-graph.vercel.app/graph?username=IanVDev&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 
 </div>
 
