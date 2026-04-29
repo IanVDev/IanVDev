@@ -1,4 +1,4 @@
-name: GitHub Metrics
+name: IanVDev OS Card
 
 on:
   schedule:
@@ -8,23 +8,30 @@ on:
     branches: [main]
 
 jobs:
-  metrics:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: IanVDev
-          filename: github-metrics.svg
-          template: classic
-          base: header, activity, repositories, metadata
-          config_timezone: America/Sao_Paulo
-          config_padding: 10
-          plugin_languages: yes
-          plugin_languages_limit: 6
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Generate IanVDev OS card
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python .github/scripts/generate_card.py
+
+      - name: Commit card
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ianvdev-os.svg
+          git diff --cached --quiet || git commit -m "chore: update IanVDev OS card [skip ci]"
+          git push

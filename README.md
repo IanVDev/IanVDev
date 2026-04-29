@@ -38,9 +38,7 @@ Real systems > hype
 
 <div align="center">
 
-![GitHub Metrics](./github-metrics.svg)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IanVDev&theme=tokyonight&hide_longest_streak=true)
+![IanVDev OS](./ianvdev-os.svg)
 
 </div>
 
