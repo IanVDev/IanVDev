@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ian Vilhena
+# IanVDev
 
-### Building reliable systems, AI tooling, and fail-closed developer products.
+### Building reliable systems, AI tooling and fail-closed developer products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianvilhena88/)
 [![GitHub](https://img.shields.io/badge/GitHub-IanVDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IanVDev)
@@ -13,12 +13,12 @@
 
 ## About
 
-Software Engineer focused on production-grade systems where **reliability, observability, and execution integrity** come first.
+Software Engineer focused on production-grade systems where **reliability, observability and execution integrity** come first.
 
-I build tools that help developers think better, ship safer, and reduce chaos.  
+I build tools that help developers think better, ship safer and reduce chaos.  
 Every system I ship is designed to answer one question:
 
-> **Can this scale reliably, fail safely, and remain verifiable under pressure?**
+> **Can this scale reliably, fail safely and remain verifiable under pressure?**
 
 ---
 
@@ -31,6 +31,18 @@ Observability before trust
 AI as an execution multiplier
 Real systems > hype
 ```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVDev&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -47,7 +59,7 @@ Enforces clarity before execution:
 - Acceptance criteria
 
 ### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
-> Fail-closed CLI for developer observability, execution integrity, and decision quality.
+> Fail-closed CLI for developer observability, execution integrity and decision quality.
 
 Built for developers who care about:
 - Behavioral pattern detection
@@ -75,17 +87,6 @@ Enforces: branch protection · CI green before merge · simultaneous PR limits �
 </div>
 
 **Systems:** CI/CD · Developer Tooling · Product Reliability · API Architecture · Security-first Workflows
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVDev&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
