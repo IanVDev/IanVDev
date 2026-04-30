@@ -16,21 +16,6 @@
 Software Engineer focused on production-grade systems where **reliability, observability and execution integrity** come first.
 
 I build tools that help developers think better, ship safer and reduce chaos.  
-Every system I ship is designed to answer one question:
-
-> **Can this scale reliably, fail safely and remain verifiable under pressure?**
-
----
-
-## Core Philosophy
-
-```
-Fail-closed by default
-Reliability over noise
-Observability before trust
-AI as an execution multiplier
-Real systems > hype
-```
 
 ---
 
