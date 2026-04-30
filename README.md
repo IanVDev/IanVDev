@@ -23,19 +23,24 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&hide_border=true&mode=weekly)
+<a href="https://github.com/IanVDev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="IanVDev GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&hide_border=true&mode=weekly&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="IanVDev Streak" />
+</a>
 
-![](https://github-contributor-stats.vercel.app/api?username=IanVDev&limit=5&theme=default&combine_all_yearly_contributions=false)
+<a href="https://github.com/IanVDev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
 ---
 
-## 📅 Contributions (Last Year)
+## 📈 Activity Graph
 
 <div align="center">
 
-![](https://ghchart.rshah.org/IanVDev)
+[![IanVDev Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IanVDev&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&hide_border=true&area=true)](https://github.com/IanVDev)
 
 </div>
 
