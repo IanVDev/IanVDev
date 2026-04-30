@@ -34,16 +34,6 @@ Real systems > hype
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![IanVDev OS](./ianvdev-os.svg)
-
-</div>
-
----
-
 ## Current Focus: Orbit Ecosystem
 
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
