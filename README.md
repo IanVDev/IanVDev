@@ -19,6 +19,30 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&count_private=true&include_all_commits=false&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&hide_border=true&mode=weekly)
+
+![](https://github-contributor-stats.vercel.app/api?username=IanVDev&limit=5&theme=default&combine_all_yearly_contributions=false)
+
+</div>
+
+---
+
+## 📅 Contributions (Last Year)
+
+<div align="center">
+
+![](https://ghchart.rshah.org/IanVDev)
+
+</div>
+
+---
+
 ## Current Focus: Orbit Ecosystem
 
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
@@ -47,15 +71,16 @@ Enforces: branch protection · CI green before merge · simultaneous PR limits �
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
