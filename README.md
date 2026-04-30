@@ -23,8 +23,6 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=IanVDev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&hide_border=true&mode=weekly)
 
 ![](https://github-contributor-stats.vercel.app/api?username=IanVDev&limit=5&theme=default&combine_all_yearly_contributions=false)
