@@ -63,17 +63,6 @@ Enforces: branch protection · CI green before merge · simultaneous PR limits �
 
 ---
 
-## Building Principles
-
-| Principle | Application |
-|---|---|
-| **Fail-closed** | Systems default to safe state on ambiguity or error |
-| **Observability first** | Every action is trackable and verifiable |
-| **Execution integrity** | No silent failures, no undefined behavior |
-| **AI as multiplier** | Tooling that augments decision quality, not replaces judgment |
-
----
-
 <div align="center">
 
 *"Clarity scales. Chaos compounds."*
