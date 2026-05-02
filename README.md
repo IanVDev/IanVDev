@@ -4,7 +4,6 @@
 
 ### Building reliable systems, AI tooling and fail-closed developer products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianvilhena88/)
 [![GitHub](https://img.shields.io/badge/GitHub-IanVDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IanVDev)
 
 </div>
