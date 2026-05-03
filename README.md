@@ -55,17 +55,6 @@ Enforces clarity before execution:
 - Risk visibility
 - Acceptance criteria
 
-### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
-> Fail-closed CLI for developer observability, execution integrity and decision quality.
-
-Built for developers who care about:
-- Behavioral pattern detection
-- Decision quality tracking
-- Execution integrity
-- Secure local-first architecture
-
-### [PR Flow](https://github.com/IanVDev/pr-flow)
-> Pull request governance system for disciplined engineering teams.
 
 Enforces: branch protection · CI green before merge · simultaneous PR limits · execution discipline
 
