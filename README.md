@@ -48,7 +48,7 @@ I build tools that help developers think better, ship safer and reduce chaos.
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
 > Claude Code skill that transforms rough requests into structured, execution-ready prompts.
 
-### [PR Flow](https://github.com/IanVDev/pr-flow)
+### [PR Flow](https://github.com/IanVDev/claude-skill-pr-flow)
 > Pull request governance system for disciplined engineering teams.
 
 
