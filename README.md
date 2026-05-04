@@ -79,6 +79,6 @@ Enforces: branch protection · CI green before merge · simultaneous PR limits �
 
 <div align="center">
 
-*"Clarity scales. Chaos compounds."*
+*"The Invisible takes form, value gains a soul"*
 
 </div>
