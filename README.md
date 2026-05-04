@@ -47,8 +47,13 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
 > Claude Code skill that transforms rough requests into structured, execution-ready prompts.
->
-> ### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
+
+### [PR Flow](https://github.com/IanVDev/pr-flow)
+> Pull request governance system for disciplined engineering teams.
+
+
+SOON:
+### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
 > Fail-closed CLI for developer observability, execution integrity and decision quality.
 
 Built for developers who care about:
@@ -57,9 +62,6 @@ Built for developers who care about:
 - Execution integrity
 - Secure local-first architecture
 
-### [PR Flow](https://github.com/IanVDev/pr-flow)
-> Pull request governance system for disciplined engineering teams.
-> 
 
 Enforces clarity before execution:
 - Objective definition
