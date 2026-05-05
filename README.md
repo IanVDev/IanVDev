@@ -45,34 +45,49 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 ## Current Focus: Orbit Ecosystem
 
-### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
-> Claude Code skill that transforms rough requests into structured, execution-ready prompts.
+Orbit is being built as a practical ecosystem for safer, clearer and more disciplined software execution.
 
-### [PR Flow](https://github.com/IanVDev/claude-skill-pr-flow)
-> Pull request governance system for disciplined engineering teams.
+### Orbit Prompt
 
+A Claude Code skill that turns rough requests into structured, execution-ready prompts.
 
+It helps developers define:
 
-SOON:
-### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
-> Fail-closed CLI for developer observability, execution integrity and decision quality.
+- Objective
+- Context
+- Constraints
+- Risks
+- Acceptance criteria
+- Safe execution boundaries
+
+### PR Flow
+
+A pull request governance skill for disciplined engineering workflows.
+
+It helps enforce:
+
+- Branch protection
+- CI green before merge
+- Pull request size discipline
+- Simultaneous PR limits
+- Clear review boundaries
+- Execution discipline
+
+## Soon
+
+### Orbit Engine
+
+A fail-closed CLI for developer observability, execution integrity and decision quality.
 
 Built for developers who care about:
+
 - Behavioral pattern detection
 - Decision quality tracking
 - Execution integrity
 - Secure local-first architecture
+- Evidence-based engineering workflows
 
-
-Enforces clarity before execution:
-- Objective definition
-- Context refinement
-- Constraint enforcement
-- Risk visibility
-- Acceptance criteria
-
-
-Enforces: branch protection · CI green before merge · simultaneous PR limits · execution discipline
+Orbit Engine is designed to protect execution before it drifts by making risks, constraints and decision quality visible before work continues.
 
 ---
 
