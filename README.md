@@ -47,7 +47,7 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 Orbit is being built as a practical ecosystem for safer, clearer and more disciplined software execution.
 
-### Orbit Prompt
+### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
 
 A Claude Code skill that turns rough requests into structured, execution-ready prompts.
 
@@ -60,7 +60,7 @@ It helps developers define:
 - Acceptance criteria
 - Safe execution boundaries
 
-### PR Flow
+### [PR Flow](https://github.com/IanVDev/claude-skill-pr-flow)
 
 A pull request governance skill for disciplined engineering workflows.
 
