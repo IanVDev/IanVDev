@@ -22,7 +22,7 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&hide_border=true&mode=weekly&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="IanVDev Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IanVDev&hide_border=true&mode=year&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="IanVDev Streak" />
 </a>
 
 <a href="https://github.com/IanVDev">
