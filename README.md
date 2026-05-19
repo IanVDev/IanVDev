@@ -52,27 +52,20 @@ I build tools that help developers think better, ship safer and reduce chaos —
 
 ### AURYA
 
-> Core research and engineering track on **software trust infrastructure**, **AI security** and **verifiable execution**.
+AURYA is the strategic core of my work in **software trust infrastructure**, **AI security** and **verifiable execution**.
 
-AURYA is not a promise of absolute security. It is a discipline for making trust **observable, testable and defensible** through evidence, traceability, governance, fail-closed design and trustworthy execution.
+It is built around a simple principle: trust should not depend on claims. It should be supported by evidence, traceability, governance, fail-closed behavior and disciplined engineering practices.
 
-It explores how critical software behavior can become more auditable, resilient and understandable as systems grow in complexity.
+AURYA explores how critical software behavior can become more observable, auditable and resilient as systems grow in complexity, especially in environments where automation, AI-assisted workflows and operational decisions need stronger trust boundaries.
 
-**Foundations in place — what the code sustains today:**
-- Fail-closed runtime design across critical paths
-- Governance-driven engineering workflows (sealed PR contracts, evidence proportional to risk)
-- Evidence-oriented contracts for AI-agent events and decisions
-- Anti-regression canaries on contract surfaces
-- No-leak discipline (sanitized logs, no payload bleed, no token surface)
-
-**In disciplined evolution — claimed only as contracts and tests catch up:**
-- Runtime instrumentation that captures and filters AI prompts in production
-- End-to-end validation on persistence boundaries
-- Post-seal immutability proofs for evidence and event references
-- Automated STRIDE gates required for high-risk PRs
-- Source activation policies wired into the upcoming Orbit Engine *Finding v1* pipeline
-
-AURYA's posture: differentiate what is **already sealed** from what is **in controlled rollout**. The roadmap is honest about both.
+Current focus areas include:
+- Software trust infrastructure
+- AI security boundaries
+- Verifiable execution
+- Evidence-oriented engineering
+- Governance-driven workflows
+- Fail-closed system design
+- Trustworthy software behavior
 
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
 > Claude Code skill that turns rough requests into structured, execution-ready prompts.
@@ -102,7 +95,7 @@ Built for developers who care about:
 
 Designed to surface risk, constraints and drift **before** work continues — not after.
 
-The Orbit Engine repository is not public yet because it contains active research, evolving security boundaries and implementation details that still need to be sealed through threat modeling, anti-regression tests, no-leak checks and stable public documentation before open release.
+Orbit Engine is not public yet because it is part of an active research and hardening track. Before any broader release, its trust boundaries, safety model, evidence handling and public documentation need to be stable, reviewed and intentionally sealed.
 
 ---
 
