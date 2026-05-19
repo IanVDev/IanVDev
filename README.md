@@ -13,9 +13,9 @@
 
 ## About
 
-Software Engineer focused on production-grade systems where **reliability, observability and execution integrity** come first.
+Software Engineer working across **mobile (Apple ecosystem), backend and developer tooling**, with a bias for production-grade systems where **reliability, observability and execution integrity** come first.
 
-I build tools that help developers think better, ship safer and reduce chaos.  
+I build tools that help developers think better, ship safer and reduce chaos — and I research how critical software behavior can be made auditable, resilient and verifiable.
 
 ---
 
@@ -46,10 +46,12 @@ I build tools that help developers think better, ship safer and reduce chaos.
 
 ---
 
-## Current Focus: Orbit Ecosystem
+## Current Focus: Orbit Ecosystem + AURYA
+
+Two parallel tracks: **Orbit** is the practical layer — tools that enforce clarity and discipline in day-to-day engineering. **AURYA** is the research and engineering layer around software trust infrastructure and verifiable execution.
 
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
-> Claude Code skill that transforms rough requests into structured, execution-ready prompts.
+> Claude Code skill that turns rough requests into structured, execution-ready prompts.
 
 Enforces clarity before execution:
 - Objective definition
@@ -57,6 +59,11 @@ Enforces clarity before execution:
 - Constraint enforcement
 - Risk visibility
 - Acceptance criteria
+
+### [PR Flow](https://github.com/IanVDev/pr-flow)
+> Pull request governance skill for disciplined engineering workflows.
+
+Enforces: branch hygiene · CI green before merge · simultaneous PR limits · auto-merge defaults · evidence proportional to risk.
 
 ### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
 > Fail-closed CLI for developer observability, execution integrity and decision quality.
@@ -66,11 +73,24 @@ Built for developers who care about:
 - Decision quality tracking
 - Execution integrity
 - Secure local-first architecture
+- Evidence-based engineering workflows
 
-### [PR Flow](https://github.com/IanVDev/pr-flow)
-> Pull request governance system for disciplined engineering teams.
+Designed to surface risk, constraints and drift **before** work continues — not after.
 
-Enforces: branch protection · CI green before merge · simultaneous PR limits · execution discipline
+### AURYA
+
+> Research and engineering track on **software trust infrastructure**, **AI security** and **verifiable execution**.
+
+AURYA explores how critical software behavior can produce evidence, preserve traceability and support governance without slowing teams down.
+
+Focus areas:
+- Execution integrity and fail-closed runtime design
+- Evidence and traceability across software boundaries
+- AI security boundaries and guardrails for agentic systems
+- Governance-oriented developer workflows
+- Auditable behavior in production-grade systems
+
+AURYA does not promise absolute security. It is a discipline for making trust **observable** and **defensible**.
 
 ---
 
@@ -78,21 +98,23 @@ Enforces: branch protection · CI green before merge · simultaneous PR limits �
 
 <div align="center">
 
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
-**Systems:** CI/CD · Developer Tooling · Product Reliability · API Architecture · Security-first Workflows
+**Platforms:** iOS · macOS · Backend services · CLIs · Developer tooling
+**Systems:** CI/CD · API architecture · Observability · Security-first workflows · AI-assisted engineering
 
 ---
 
 <div align="center">
 
-*"Clarity scales. Chaos compounds."*
+*"Clarity scales. Chaos compounds. Trust is built in evidence, not in claims."*
 
 </div>
