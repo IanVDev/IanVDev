@@ -46,9 +46,25 @@ I build tools that help developers think better, ship safer and reduce chaos —
 
 ---
 
-## Current Focus: Orbit Ecosystem + AURYA
+## Current Focus: AURYA + Orbit Ecosystem
 
-Two parallel tracks: **Orbit** is the practical layer — tools that enforce clarity and discipline in day-to-day engineering. **AURYA** is the research and engineering layer around software trust infrastructure and verifiable execution.
+**AURYA** is the strategic core — research and engineering around software trust infrastructure, AI security and verifiable execution. **Orbit** is the operational layer — practical tools that turn that discipline into day-to-day engineering.
+
+### AURYA
+
+> Core research and engineering track on **software trust infrastructure**, **AI security** and **verifiable execution**.
+
+AURYA is not a promise of absolute security. It is a discipline for making trust **observable, testable and defensible** through evidence, traceability, governance, fail-closed design and trustworthy execution.
+
+It explores how critical software behavior can become more auditable, resilient and understandable as systems grow in complexity.
+
+Current focus areas:
+- AI security boundaries
+- Execution integrity
+- Evidence and traceability
+- Fail-closed runtime design
+- Governance-oriented developer workflows
+- Trustworthy software behavior
 
 ### [Orbit Prompt](https://github.com/IanVDev/orbit-prompt)
 > Claude Code skill that turns rough requests into structured, execution-ready prompts.
@@ -65,7 +81,8 @@ Enforces clarity before execution:
 
 Enforces: branch hygiene · CI green before merge · simultaneous PR limits · auto-merge defaults · evidence proportional to risk.
 
-### [Orbit Engine](https://github.com/IanVDev/orbit-engine)
+### Orbit Engine
+
 > Fail-closed CLI for developer observability, execution integrity and decision quality.
 
 Built for developers who care about:
@@ -77,20 +94,7 @@ Built for developers who care about:
 
 Designed to surface risk, constraints and drift **before** work continues — not after.
 
-### AURYA
-
-> Research and engineering track on **software trust infrastructure**, **AI security** and **verifiable execution**.
-
-AURYA explores how critical software behavior can produce evidence, preserve traceability and support governance without slowing teams down.
-
-Focus areas:
-- Execution integrity and fail-closed runtime design
-- Evidence and traceability across software boundaries
-- AI security boundaries and guardrails for agentic systems
-- Governance-oriented developer workflows
-- Auditable behavior in production-grade systems
-
-AURYA does not promise absolute security. It is a discipline for making trust **observable** and **defensible**.
+The Orbit Engine repository is not public yet because it contains active research, evolving security boundaries and implementation details that still need to be sealed through threat modeling, anti-regression tests, no-leak checks and stable public documentation before open release.
 
 ---
 
