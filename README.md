@@ -60,7 +60,7 @@ Enforces clarity before execution:
 - Risk visibility
 - Acceptance criteria
 
-### [PR Flow](https://github.com/IanVDev/pr-flow)
+### [PR Flow](https://github.com/IanVDev/claude-skill-pr-flow)
 > Pull request governance skill for disciplined engineering workflows.
 
 Enforces: branch hygiene · CI green before merge · simultaneous PR limits · auto-merge defaults · evidence proportional to risk.
